@@ -21,4 +21,3 @@ Um bom exemplo de um algoritmo é uma **receita**.
 ***se-senão***
 
 ### Matrizes e vetores
-
