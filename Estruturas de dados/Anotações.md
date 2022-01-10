@@ -10,3 +10,10 @@
 
 ***Exemplo: Structs na linguagem c*** 
 
+**Pilhas:**
+
+*Se comporta com algumas regras:*
+
+*Para tirar um elemento da pilha o último que é colocado na pilha é o primeiro a sair (LIFO).*
+
+
